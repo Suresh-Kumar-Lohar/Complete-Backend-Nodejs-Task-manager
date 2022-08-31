@@ -8,9 +8,9 @@ for security Authentication and Authorization have implemented using JSON web to
 
 Noone can mess with any other data (All tasks)
 
-It have all operations CRUD for both Users and Tasks management.
+It has all operations CRUD for both Users and Tasks management.
 
-it have also features like Sorting, Searching, and Pagination and Image Uploading using endpoints.
+it has also features like Sorting, Searching, and Pagination and Image Uploading using endpoints.
 
 All endpoints are Tested with Postman.
 
